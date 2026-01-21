@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "datasette": {
+      "command": "uvx",
+      "args": [
+        "git+https://github.com/mhalle/datasette-mcp.git",
+        "--url",
+        "https://puddle.datamade.us",
+        "--id",
+        "chicago_council"
+      ]
+    },
+    "opengov": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "opengov-mcp-server@latest"
+      ],
+      "env": {
+        "DATA_PORTAL_URL": "https://data.cityofchicago.org"
+      }
+    }
+  }
+}

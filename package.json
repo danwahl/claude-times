@@ -1,0 +1,26 @@
+{
+  "name": "claude-times",
+  "version": "0.1.0",
+  "description": "A daily newsletter powered by Claude",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwahl/claude-times.git"
+  },
+  "keywords": [],
+  "author": "Dan Wahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danwahl/claude-times/issues"
+  },
+  "homepage": "https://github.com/danwahl/claude-times#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.9",
+    "feed": "^4.2.2",
+    "vitepress": "^2.0.0-alpha.15"
+  }
+}

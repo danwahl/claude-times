@@ -1,0 +1,30 @@
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+.post-list a {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.post-date {
+  display: block;
+  color: var(--vp-c-text-2);
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+
+.post-description {
+  color: var(--vp-c-text-2);
+  margin-top: 0.5rem;
+}
