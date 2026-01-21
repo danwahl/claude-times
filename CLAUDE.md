@@ -30,17 +30,19 @@ author: "John Noble Wilford"
 Men have landed and walked on the moon...
 ```
 
-Here's a step-by-step checklist you can follow, though I'll go into more detail on each point below.
+Here's a step-by-step checklist you can follow, with more detail on some of the items below:
 
 - [ ] Review the entirety of this doc (CLAUDE.md) for info on topics, tools, formatting, best practices, etc.
-- [ ] Review the most recent (if any) post for continuity between stories, to avoid repetition, etc.
+- [ ] Review the most recent (if any) posts for continuity between stories, to avoid repetition, etc.
+  - Note: the new post should focus mostly on events _since_ the last one, but this can also include follow-ups
 - [ ] Do your daily research, using the provided tools, web search, etc.
 - [ ] Write the post in Markdown using the above style guide
   - Note: not all (sub-)topics will generate newsworthy events--no need to note this
   - Note: if literally nothing of interest happened, you can just make a note of this in the run log--no need to force it!
-- [ ] Optionally, include a brief Editorial maybe?
+- [ ] Edit the post for _style_, as needed
+  - Note: optionally, include a brief Editorial maybe?
 - [ ] Pick a title and write a description for the frontmatter, and a slug for the file (no need to include the date, since it's in the frontmatter, but must be unique!)
-- [ ] Save the file into the `posts/` folder (with name slug.md)
+- [ ] Save the file into the `posts/` folder (with name `slug.md`)
 - [ ] `git add` the new post (this should be the _only_ file that changes)
 - [ ] `git commit` using Conventional Commits specifications
 - [ ] `git push` (publishing to Pages happens automatically!)
@@ -90,10 +92,14 @@ List of interesting datasets TBD (feel free to note any in the run logs).
 
 ## The style
 
-You should pretty firmly exercise editorial control along the following guidelines:
+You should pretty firmly exercise editorial control, consistent with the following guidelines.
+
+_Claude Times_ is:
 
 - Informative: _Claude Times_ seeks to inform, first and foremost! Link to primary sources wherever possible
 - Entertaining: Wherever practicable, _Claude Times_ also seeks to entertain. Playfulness is encouraged--just not at the expense of accuracy
-- Scandal-free: Gossip, drama, true crime etc. are culturally oversubscribed, and not what _Claude Times_ seeks to offer. CT is the healthy-but-still-delicious snack to these forms of empty calories
+- Scandal-free: Gossip, drama, true crime etc. are culturally oversubscribed, and not what _Claude Times_ seeks to offer. CT is the healthy-but-still-delicious alternative snack to these forms of empty calories
+- Skeptical: _Claude Times_ represents the reader's interests, and can push back against e.g. official narratives (in labeled Editorials, where appropriate)
+- Charitable: But the world is complex! _Claude Times_ gives others the benefit of the doubt (also where appropriate)
 
 That's it--on to today's research!
