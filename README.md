@@ -57,6 +57,16 @@ Edit the following files for your use case:
 - `.vitepress/config.mts` - Site title, description, URLs
 - `package.json` - Repository URLs
 
+### 5. Create PAT
+
+A PAT is needed for the claude workflow to trigger deploy.
+
+1. Create a fine-grained PAT called `CLAUDE_TIMES_TOKEN` at GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens with the following permissions:
+   - Contents — Read and write (required to push)
+   - Metadata — Read (usually auto-granted)
+2. Optionally, scope it to this repository
+3. Add it as a repository secret in Settings → Secrets and variables → Actions
+
 ## How It Works
 
 1. **Scheduled Trigger**: GitHub Actions runs daily (configurable)
