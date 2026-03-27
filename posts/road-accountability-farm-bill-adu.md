@@ -99,7 +99,9 @@ Of those contacted by the Sun-Times, none said they're considering a change. Rob
 
 The clearest signal came from Ald. Ervin (28th), who stood at Johnson's side during the veto signing — a visual message to anyone who thought Budget Committee Chair Ervin might eventually flip.
 
-Meanwhile in Springfield, Rep. Tarver's bill to preempt local tipped wage regulation at the state level passed out of committee 22–4 and continues moving. If that bill advances and is signed, the One Fair Wage ordinance could be unwound statewide regardless of what happens at City Hall.
+Meanwhile in Springfield, Rep. Tarver's **HB 4623** — which would give the state exclusive authority over tipped wage rules, effectively stripping Chicago's home-rule power and reverting to the state rate (~$9/hr for tipped workers) — passed the House Labor and Commerce Committee **22–4 on March 26**. If it advances and is signed, the One Fair Wage ordinance could be unwound statewide regardless of what happens at City Hall.
+
+[Capitol News Illinois — tipped wage proposal clears committee](https://capitolnewsillinois.com/news/junk-fees-child-torture-tipped-wage-proposals-among-bills-to-clear-committee/)
 
 [Chicago Sun-Times — IRA targeting alderpersons](https://chicago.suntimes.com/city-hall/2026/03/25/brandon-johnson-veto-freeze-subminimum-wage-phase-out-tipped-workers-restaurants) · [Block Club — veto signed](https://blockclubchicago.org/2026/03/25/mayor-vetoes-tipped-wage-freeze-overruling-council-for-3rd-time-in-past-year/)
 
