@@ -47,9 +47,11 @@ A brief catch-up on Divvy news from March 16, which slipped past last issue: the
 
 House Agriculture Committee Chair Thompson still intends to bring **H.R. 7567** (Farm, Food, and National Security Act of 2026) to the full House floor before **Easter (April 5)** — now nine days away. No floor schedule has been announced, and the bill faces real headwinds.
 
-The pesticide preemption provisions remain the flashpoint. Section 10205 bars consumers from suing pesticide companies over inadequate safety labeling. Section 10206 overrides all state and local food safety laws. Section 10207 repeals federal pesticide protection statutes. An amendment to strip these provisions failed in committee 28–22.
+The pesticide preemption provisions remain the flashpoint. **Section 10205** would require uniform federal pesticide labels nationally and — crucially — shield manufacturers from failure-to-warn liability claims. This is widely read as a Bayer/Monsanto lifeline: roughly **65,000 Roundup cancer claims** are pending, and this provision would gut the legal theory behind them. **Section 10206** would preempt additional state and local pesticide regulations. **Section 10207** would exempt EPA-registered pesticides from Clean Water Act and Endangered Species Act reviews. An amendment to strip all three provisions failed in committee 28–22.
 
-The MAHA backlash is not going away. Food activist Vani Hari called the bill an "abomination" on X. STAT News framed the pesticide provisions as a "growing rift" between the MAHA movement and the industry-friendly wing of the GOP. Senate Agriculture Committee Chair Boozman has said he plans to proceed with his own farm bill — meaning even if the House passes this, a House-Senate reconciliation would still lie ahead.
+The MAHA backlash has become organized. Over **300 MAHA doctors, farmers, and national leaders** sent a letter urging House and Senate MAHA caucus members to block the pesticide language. Prominent MAHA activist Kelly Ryerson ("Glyphosate Girl") called it "shameful." Meanwhile, **135 House Democrats** signed a letter opposing the pesticide riders. With the GOP's slim House margins, MAHA-aligned Republican defections combined with near-unified Democratic opposition could sink the bill on the floor — if Thompson actually schedules it.
+
+Senate Agriculture Committee Chair Boozman has said he plans to proceed with his own separate farm bill, meaning even a House-floor win leaves a contentious House-Senate reconciliation ahead.
 
 If your House member hasn't heard from you on Sections 10205–10207, the window is closing.
 
